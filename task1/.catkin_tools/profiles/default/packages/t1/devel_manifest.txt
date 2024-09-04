@@ -1,0 +1,7 @@
+t1
+/home/utsab/Workspaces/task1/devel/.private/t1/cmake.lock /home/utsab/Workspaces/task1/devel/./cmake.lock
+/home/utsab/Workspaces/task1/devel/.private/t1/share/t1/cmake/t1Config-version.cmake /home/utsab/Workspaces/task1/devel/share/t1/cmake/t1Config-version.cmake
+/home/utsab/Workspaces/task1/devel/.private/t1/share/t1/cmake/t1Config.cmake /home/utsab/Workspaces/task1/devel/share/t1/cmake/t1Config.cmake
+/home/utsab/Workspaces/task1/devel/.private/t1/lib/pkgconfig/t1.pc /home/utsab/Workspaces/task1/devel/lib/pkgconfig/t1.pc
+/home/utsab/Workspaces/task1/devel/.private/t1/lib/t1/sub_node /home/utsab/Workspaces/task1/devel/lib/t1/sub_node
+/home/utsab/Workspaces/task1/devel/.private/t1/lib/t1/pub_node /home/utsab/Workspaces/task1/devel/lib/t1/pub_node

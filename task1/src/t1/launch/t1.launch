@@ -1,0 +1,7 @@
+<launch>
+
+  <!-- Launch ROS Package Template Node -->
+  <node pkg="t1" type="publisher_node" name="dummy_publish" output="screen"/>
+
+
+</launch>

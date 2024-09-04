@@ -1,0 +1,64 @@
+[01m[K/home/utsab/Workspaces/task2/src/gaussian_noise/src/gaussian_noise_node.cpp:6:6:[m[K [01;31m[Kerror: [m[Kvariable or field ‘[01m[Kros_node[m[K’ declared void
+    6 | void [01;31m[Kros_node[m[K{
+      |      [01;31m[K^~~~~~~~[m[K
+[01m[K/home/utsab/Workspaces/task2/src/gaussian_noise/src/gaussian_noise_node.cpp:7:5:[m[K [01;31m[Kerror: [m[Kexpected primary-expression before ‘[01m[Kprivate[m[K’
+    7 |     [01;31m[Kprivate[m[K:
+      |     [01;31m[K^~~~~~~[m[K
+[01m[K/home/utsab/Workspaces/task2/src/gaussian_noise/src/gaussian_noise_node.cpp:7:5:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K}[m[K’ before ‘[01m[Kprivate[m[K’
+[01m[K/home/utsab/Workspaces/task2/src/gaussian_noise/src/gaussian_noise_node.cpp:6:14:[m[K [01;36m[Knote: [m[Kto match this ‘[01m[K{[m[K’
+    6 | void ros_node[01;36m[K{[m[K
+      |              [01;36m[K^[m[K
+[01m[K/home/utsab/Workspaces/task2/src/gaussian_noise/src/gaussian_noise_node.cpp:12:5:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[Kpublic[m[K’
+   12 |     [01;31m[Kpublic[m[K:
+      |     [01;31m[K^~~~~~[m[K
+[01m[K/home/utsab/Workspaces/task2/src/gaussian_noise/src/gaussian_noise_node.cpp:21:44:[m[K [01;31m[Kerror: [m[K‘[01m[KTwist[m[K’ in namespace ‘[01m[Kgeometry_msgs[m[K’ does not name a type
+   21 |         void callback(const geometry_msgs::[01;31m[KTwist[m[K::ConstPtr &msg){
+      |                                            [01;31m[K^~~~~[m[K
+[01m[K/home/utsab/Workspaces/task2/src/gaussian_noise/src/gaussian_noise_node.cpp:21:60:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[K&[m[K’ token
+   21 |         void callback(const geometry_msgs::Twist::ConstPtr [01;31m[K&[m[Kmsg){
+      |                                                            [01;31m[K^[m[K
+[01m[K/home/utsab/Workspaces/task2/src/gaussian_noise/src/gaussian_noise_node.cpp:21:59:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K)[m[K’ before ‘[01m[K&[m[K’ token
+   21 |         void callback[34m[K([m[Kconst geometry_msgs::Twist::ConstPtr[01;31m[K [m[K[32m[K&[m[Kmsg){
+      |                      [34m[K~[m[K                                    [01;31m[K^[m[K[32m[K~[m[K
+      |                                                           [32m[K)[m[K
+[01m[K/home/utsab/Workspaces/task2/src/gaussian_noise/src/gaussian_noise_node.cpp:21:61:[m[K [01;31m[Kerror: [m[Kexpected initializer before ‘[01m[Kmsg[m[K’
+   21 |         void callback(const geometry_msgs::Twist::ConstPtr &[01;31m[Kmsg[m[K){
+      |                                                             [01;31m[K^~~[m[K
+[01m[K/home/utsab/Workspaces/task2/src/gaussian_noise/src/gaussian_noise_node.cpp:25:1:[m[K [01;31m[Kerror: [m[Kexpected declaration before ‘[01m[K}[m[K’ token
+   25 | [01;31m[K}[m[K;
+      | [01;31m[K^[m[K
+In file included from [01m[K/opt/ros/noetic/include/ros/ros.h:40[m[K,
+                 from [01m[K/home/utsab/Workspaces/task2/src/gaussian_noise/src/gaussian_noise_node.cpp:1[m[K:
+[01m[K/home/utsab/Workspaces/task2/src/gaussian_noise/src/gaussian_noise_node.cpp:[m[K In function ‘[01m[Kvoid callback(const Vector3&)[m[K’:
+[01m[K/home/utsab/Workspaces/task2/src/gaussian_noise/src/gaussian_noise_node.cpp:30:14:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%s[m[K’ expects argument of type ‘[01m[Kchar*[m[K’, but argument 8 has type ‘[01m[Kconst Vector3[m[K’ {aka ‘[01m[Kconst geometry_msgs::Vector3_<std::allocator<void> >[m[K’} [[01;35m[K-Wformat=[m[K]
+   30 |     ROS_INFO([01;35m[K"The message published was: [%s]"[m[K, [32m[Kmsg[m[K);
+      |              [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K  [32m[K~~~[m[K
+      |                                                 [32m[K|[m[K
+      |                                                 [32m[Kconst Vector3 {aka const geometry_msgs::Vector3_<std::allocator<void> >}[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:351:165:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+  351 |     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, [01;36m[K__VA_ARGS__[m[K)
+      |                                                                                                                                                                     [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:390:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+  390 |       [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
+      |       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:575:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+  575 | #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
+      |                                   [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/rosconsole/macros_generated.h:110:23:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+  110 | #define ROS_INFO(...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Info, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+      |                       [01;36m[K^~~~~~~[m[K
+[01m[K/home/utsab/Workspaces/task2/src/gaussian_noise/src/gaussian_noise_node.cpp:30:5:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_INFO[m[K’
+   30 |     [01;36m[KROS_INFO[m[K("The message published was: [%s]", msg);
+      |     [01;36m[K^~~~~~~~[m[K
+[01m[K/home/utsab/Workspaces/task2/src/gaussian_noise/src/gaussian_noise_node.cpp:30:44:[m[K [01;36m[Knote: [m[Kformat string is defined here
+   30 |     ROS_INFO("The message published was: [[01;36m[K%s[m[K]", msg);
+      |                                           [01;36m[K~^[m[K
+      |                                            [01;36m[K|[m[K
+      |                                            [01;36m[Kchar*[m[K
+[01m[K/home/utsab/Workspaces/task2/src/gaussian_noise/src/gaussian_noise_node.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/utsab/Workspaces/task2/src/gaussian_noise/src/gaussian_noise_node.cpp:36:5:[m[K [01;31m[Kerror: [m[K‘[01m[Kros_node[m[K’ was not declared in this scope
+   36 |     [01;31m[Kros_node[m[K Node;
+      |     [01;31m[K^~~~~~~~[m[K
+make[2]: *** [CMakeFiles/gn_node.dir/build.make:63: CMakeFiles/gn_node.dir/src/gaussian_noise_node.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:619: CMakeFiles/gn_node.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

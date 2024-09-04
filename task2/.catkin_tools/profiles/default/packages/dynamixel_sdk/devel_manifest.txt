@@ -1,0 +1,17 @@
+DynamixelSDK/ros/dynamixel_sdk
+/home/utsab/Workspaces/task2/devel/.private/dynamixel_sdk/cmake.lock /home/utsab/Workspaces/task2/devel/./cmake.lock
+/home/utsab/Workspaces/task2/devel/.private/dynamixel_sdk/share/dynamixel_sdk/cmake/dynamixel_sdkConfig.cmake /home/utsab/Workspaces/task2/devel/share/dynamixel_sdk/cmake/dynamixel_sdkConfig.cmake
+/home/utsab/Workspaces/task2/devel/.private/dynamixel_sdk/share/dynamixel_sdk/cmake/dynamixel_sdkConfig-version.cmake /home/utsab/Workspaces/task2/devel/share/dynamixel_sdk/cmake/dynamixel_sdkConfig-version.cmake
+/home/utsab/Workspaces/task2/devel/.private/dynamixel_sdk/lib/libdynamixel_sdk.so /home/utsab/Workspaces/task2/devel/lib/libdynamixel_sdk.so
+/home/utsab/Workspaces/task2/devel/.private/dynamixel_sdk/lib/pkgconfig/dynamixel_sdk.pc /home/utsab/Workspaces/task2/devel/lib/pkgconfig/dynamixel_sdk.pc
+/home/utsab/Workspaces/task2/devel/.private/dynamixel_sdk/lib/dynamixel_sdk/port_handler.py /home/utsab/Workspaces/task2/devel/lib/dynamixel_sdk/port_handler.py
+/home/utsab/Workspaces/task2/devel/.private/dynamixel_sdk/lib/dynamixel_sdk/group_sync_read.py /home/utsab/Workspaces/task2/devel/lib/dynamixel_sdk/group_sync_read.py
+/home/utsab/Workspaces/task2/devel/.private/dynamixel_sdk/lib/dynamixel_sdk/group_bulk_write.py /home/utsab/Workspaces/task2/devel/lib/dynamixel_sdk/group_bulk_write.py
+/home/utsab/Workspaces/task2/devel/.private/dynamixel_sdk/lib/dynamixel_sdk/group_sync_write.py /home/utsab/Workspaces/task2/devel/lib/dynamixel_sdk/group_sync_write.py
+/home/utsab/Workspaces/task2/devel/.private/dynamixel_sdk/lib/dynamixel_sdk/protocol1_packet_handler.py /home/utsab/Workspaces/task2/devel/lib/dynamixel_sdk/protocol1_packet_handler.py
+/home/utsab/Workspaces/task2/devel/.private/dynamixel_sdk/lib/dynamixel_sdk/cmake.lock /home/utsab/Workspaces/task2/devel/lib/dynamixel_sdk/cmake.lock
+/home/utsab/Workspaces/task2/devel/.private/dynamixel_sdk/lib/dynamixel_sdk/protocol2_packet_handler.py /home/utsab/Workspaces/task2/devel/lib/dynamixel_sdk/protocol2_packet_handler.py
+/home/utsab/Workspaces/task2/devel/.private/dynamixel_sdk/lib/dynamixel_sdk/group_bulk_read.py /home/utsab/Workspaces/task2/devel/lib/dynamixel_sdk/group_bulk_read.py
+/home/utsab/Workspaces/task2/devel/.private/dynamixel_sdk/lib/dynamixel_sdk/robotis_def.py /home/utsab/Workspaces/task2/devel/lib/dynamixel_sdk/robotis_def.py
+/home/utsab/Workspaces/task2/devel/.private/dynamixel_sdk/lib/dynamixel_sdk/packet_handler.py /home/utsab/Workspaces/task2/devel/lib/dynamixel_sdk/packet_handler.py
+/home/utsab/Workspaces/task2/devel/.private/dynamixel_sdk/lib/python3/dist-packages/dynamixel_sdk/__init__.py /home/utsab/Workspaces/task2/devel/lib/python3/dist-packages/dynamixel_sdk/__init__.py

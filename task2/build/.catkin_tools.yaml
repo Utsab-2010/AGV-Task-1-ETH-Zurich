@@ -1,0 +1,6 @@
+devel_space: /home/utsab/Workspaces/task2/devel
+install: false
+install_space: /home/utsab/Workspaces/task2/install
+profile: default
+source_space: /home/utsab/Workspaces/task2/src
+workspace: /home/utsab/Workspaces/task2

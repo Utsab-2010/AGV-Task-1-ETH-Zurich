@@ -1,0 +1,8 @@
+prefix=/home/utsab/Workspaces/task2/devel/.private/gaussian_noise
+
+Name: gaussian_noise
+Description: Description of gaussian_noise
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

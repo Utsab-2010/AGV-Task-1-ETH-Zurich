@@ -1,0 +1,5 @@
+Symlinking /home/utsab/Workspaces/task1/devel/share/t1/cmake/t1Config-version.cmake
+Symlinking /home/utsab/Workspaces/task1/devel/share/t1/cmake/t1Config.cmake
+Symlinking /home/utsab/Workspaces/task1/devel/lib/pkgconfig/t1.pc
+Symlinking /home/utsab/Workspaces/task1/devel/lib/t1/sub_node
+Symlinking /home/utsab/Workspaces/task1/devel/lib/t1/pub_node

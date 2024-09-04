@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target gn_node[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/gn_node.dir/src/gaussian_noise_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/utsab/Workspaces/task2/devel/.private/gaussian_noise/lib/gaussian_noise/gn_node[0m
+[100%] Built target gn_node
